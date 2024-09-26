@@ -35,12 +35,13 @@ This repository contains Python implementations of various Data Structures and A
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dsa-in-python.git
+   git clone https://github.com/T-Naveen-2308/DSA-in-Python.git
+   ```
 2. Navigate into any folder to explore the algorithms.
 3. Run the Python scripts to see the algorithms in action:
    ```bash
     python3 LinkedLists/SingleLinkedList.py
-   
+   ```
 ## Contributions
 
 Feel free to fork this repository, create new algorithms, and submit a pull request!
